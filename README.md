@@ -104,6 +104,9 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [git-cheat-sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet) 
+* [awesome-vim](http://vimawesome.com/)
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+* [awesome-free-books](https://github.com/vhf/free-programming-books)
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 
