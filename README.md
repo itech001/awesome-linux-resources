@@ -1,11 +1,24 @@
 awesome-linux-resources
 =======================
-useful resources for linux begeinners  
+**useful resources for linux begeinners**
+
+Useful Linux tutorials, web sites and online books, you also can find this list from [www.linux6.com](http://www.linux6.com).
+
+- [awesome-linux-resources](#awesome-linux-resources)
+  - [ENV](#env)
+  - [cmds](#cmds)
+  - [shell](#shell)
+  - [Dev tools](#ev-tools)
+  - [linux web sites](#linux-web-sites)  
+  - [free Linux books](#free-Linux-books)
+  - [perl](#perl)
+  - [python](#python)
+  - [other awesomes](#other-awesomes)
 
 
-###env
-* [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
+###ENV
 * [vim_tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
+* [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
 * [alias.sh](http://alias.sh)
 
 
@@ -20,7 +33,7 @@ useful resources for linux begeinners
 * [ss64.com-cmds](http://ss64.com/bash/)
 
 
-###script
+###shell
 * [learnshell.org](http://www.learnshell.org/)  
 * [wikibooks.org-bash](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [shell script cheat sheet](http://alvinalexander.com/blog/post/linux-unix/unix-linux-shell-script-reference-cheat-sheet)
@@ -37,7 +50,7 @@ useful resources for linux begeinners
 * [zshwiki.org](http://zshwiki.org/home/)
 
 
-###dev
+###Dev tools
 * [yolinux.com-gdb](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
 * [cprogramming.com-gdb](http://www.cprogramming.com/gdb.html)
 * [gitref.org](http://gitref.org/)
@@ -47,7 +60,7 @@ useful resources for linux begeinners
 * [git-scm.com](http://git-scm.com/book/en/)
 
 
-###Linux
+###Linux web sites
 * [linuxtechi.com](http://www.linuxtechi.com/)
 * [tecadmin.net](http://tecadmin.net/)
 * [xmodulo.com](http://xmodulo.com/)
@@ -57,7 +70,7 @@ useful resources for linux begeinners
 * [thegeekstuff.com](http://www.thegeekstuff.com/)
 
 
-###free books
+###free Linux books
 * [linux-101-hacks-ebook](http://www.thegeekstuff.com/linux-101-hacks-ebook/)
 * [The-linux-command-line](http://linuxcommand.org/tlcl.php)
 * [advanced-bash-scripting-guide](http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/)  
@@ -76,15 +89,21 @@ useful resources for linux begeinners
 * [perl](http://modernperlbooks.com/books/modern_perl_2014/index.html)  
 
 
-###other awesomes
-
-
-
-
 ###python
 * [learnpython.org](http://www.learnpython.org/)  
 * [pythontutor.com](http://www.pythontutor.com/)  
 * [zetcode.com-python](http://zetcode.com/lang/python/)  
 * [java2s.com-python]
 (http://www.java2s.com/Tutorial/Python/CatalogPython.htm)  
+
+###other awesomes
+* [awesome-shell](https://github.com/alebcay/awesome-shell)
+* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+* [sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [awesome-devenv](https://github.com/jondot/awesome-devenv)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [git-cheat-sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet) 
+* [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 
