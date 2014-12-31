@@ -48,6 +48,7 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [hyperpolyglot.org-script_compare](http://hyperpolyglot.org/unix-shells)
 * [wooledge.org-bash_fqa](http://mywiki.wooledge.org/BashFAQ)
 * [zshwiki.org](http://zshwiki.org/home/)
+* [bash example](http://matt.might.net/articles/bash-by-example/)
 
 
 ##Dev tools
