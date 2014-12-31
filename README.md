@@ -93,8 +93,8 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [learnpython.org](http://www.learnpython.org/)  
 * [pythontutor.com](http://www.pythontutor.com/)  
 * [zetcode.com-python](http://zetcode.com/lang/python/)  
-* [java2s.com-python]
-(http://www.java2s.com/Tutorial/Python/CatalogPython.htm)  
+* [java2s.com-python](http://www.java2s.com/Tutorial/Python/CatalogPython.htm)  
+* [python-guide.org](http://docs.python-guide.org/en/latest/index.html)
 
 ##other awesomes
 * [awesome-shell](https://github.com/alebcay/awesome-shell)
