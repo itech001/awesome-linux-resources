@@ -5,7 +5,7 @@ awesome-linux-resources
 Useful Linux tutorials, web sites and online books, you also can find this list from [www.linux6.com](http://www.linux6.com).
 
 - [awesome-linux-resources](#awesome-linux-resources)
-  - [ENV](#env)
+  - [env](#env)
   - [cmds](#cmds)
   - [shell](#shell)
   - [Dev tools](#ev-tools)
@@ -16,7 +16,7 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
   - [other awesomes](#other-awesomes)
 
 
-##ENV
+##env
 * [vim_tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 * [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
 * [alias.sh](http://alias.sh)
@@ -48,7 +48,7 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [hyperpolyglot.org-script_compare](http://hyperpolyglot.org/unix-shells)
 * [wooledge.org-bash_fqa](http://mywiki.wooledge.org/BashFAQ)
 * [zshwiki.org](http://zshwiki.org/home/)
-* [bash example](http://matt.might.net/articles/bash-by-example/)
+* [bash by example](http://matt.might.net/articles/bash-by-example/)
 
 
 ##Dev tools
