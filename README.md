@@ -58,7 +58,8 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [backlogtool.com-git](http://backlogtool.com/git-guide/cn/)
 * [oschina.net-git](http://git.oschina.net/progit/)  
 * [yyz.us-git_for_kernel](http://linux.yyz.us/git-howto.html)
-* [git-scm.com](http://git-scm.com/book/en/)
+* [git-scm.com](http://git-scm.com/book/en/)  
+* [try.github.io](https://try.github.io)  Learn how to use Git by reviewing the basic concepts of Git version control.  
 
 
 ##Linux web sites
