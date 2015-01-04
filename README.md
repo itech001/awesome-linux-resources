@@ -20,8 +20,6 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [vim_tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 * [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
 * [alias.sh](http://alias.sh)  alias collection  
-* [shortcutfoo.com](https://www.shortcutfoo.com/app/dojos/vim)  study vim shortcut 
-* [shortcutfoo.com](https://www.shortcutfoo.com/app/dojos/command-line) study commandline online 
 
 
 ##cmds
