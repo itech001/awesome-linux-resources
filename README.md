@@ -81,13 +81,15 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [advanced-bash-scripting-guide](http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/)  
 * [linux-cookbook](http://dsl.org/cookbook/cookbook_toc.html)  
 * [linux-network-admin-guide](http://www.oreilly.com/openbook/linag2/book/index.html)  
+* [help.ubuntu.com](https://help.ubuntu.com/)  
+* [askubuntu.com](http://askubuntu.com/)  
 * [ubuntu-pocket-guide](http://www.ubuntupocketguide.com/download_main.html)  
 * [linux-ebooks](http://programmerworld.netfirms.com/techbooks/linux.htm)  
 * [tech-books-for-free](http://www.techbooksforfree.com/linux.shtml)  
 * [online-books](http://www.onlineprogrammingbooks.com/linux/)  
 * [linuxtopia-books](http://www.techotopia.com/index.php/Main_Page)  
-* [help.ubuntu.com](https://help.ubuntu.com/)  
-* [askubuntu.com](http://askubuntu.com/)    
+* [freetechbooks.com](http://www.freetechbooks.com/)  
+  
 
 
 ## perl
