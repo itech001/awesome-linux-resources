@@ -70,6 +70,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [linux-tutorial.info](http://www.linux-tutorial.info/)
 * [linuxdoc.org](http://www.linuxdoc.org/)  
 * [thegeekstuff.com](http://www.thegeekstuff.com/)
+* [howtoforge.com](https://www.howtoforge.com/)  
 
 
 ##free Linux books
