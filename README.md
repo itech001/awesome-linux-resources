@@ -19,7 +19,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 ##env
 * [vim_tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 * [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
-* [alias.sh](http://alias.sh)  alias collection  
+* [alias.sh](http://alias.sh)    
 
 
 ##cmds
@@ -83,6 +83,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [tech-books-for-free](http://www.techbooksforfree.com/linux.shtml)  
 * [online-books](http://www.onlineprogrammingbooks.com/linux/)  
 * [linuxtopia-books](http://www.techotopia.com/index.php/Main_Page)  
+* [help.ubuntu.com](https://help.ubuntu.com/)  
 
 
 ## perl
