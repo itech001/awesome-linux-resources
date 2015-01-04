@@ -71,6 +71,8 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [linuxdoc.org](http://www.linuxdoc.org/)  
 * [thegeekstuff.com](http://www.thegeekstuff.com/)
 * [howtoforge.com](https://www.howtoforge.com/)  
+* [tldp.org](http://tldp.org/)  
+* [mylinuxbook.com](http://mylinuxbook.com/)  
 
 
 ##free Linux books
