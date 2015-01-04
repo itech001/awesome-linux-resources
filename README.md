@@ -104,6 +104,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [zetcode.com-python](http://zetcode.com/lang/python/)  
 * [java2s.com-python](http://www.java2s.com/Tutorial/Python/CatalogPython.htm)  
 * [python-guide.org](http://docs.python-guide.org/en/latest/index.html)
+* [fullstackpython.com](http://www.fullstackpython.com/)  
 
 ##other awesomes
 * [awesome-shell](https://github.com/alebcay/awesome-shell)
