@@ -84,6 +84,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [online-books](http://www.onlineprogrammingbooks.com/linux/)  
 * [linuxtopia-books](http://www.techotopia.com/index.php/Main_Page)  
 * [help.ubuntu.com](https://help.ubuntu.com/)  
+* [askubuntu.com](http://askubuntu.com/)    
 
 
 ## perl
