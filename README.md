@@ -88,7 +88,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 ## perl
 * [perl.org-tutorials](http://learn.perl.org/tutorials/)
 * [perl-tutorial.org](http://perl-tutorial.org/)  
-* [perl](http://modernperlbooks.com/books/modern_perl_2014/index.html)  
+* [modernperlbooks.com](http://modernperlbooks.com/books/modern_perl_2014/index.html)  
 
 
 ##python
