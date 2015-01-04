@@ -2,7 +2,7 @@ awesome-linux-resources
 =======================
 **useful resources for linux begeinners**
 
-Useful Linux tutorials, web sites and online books, you also can find this list from [www.linux6.com](http://www.linux6.com).
+Useful Linux tutorials, web sites and online books, you also can find more linux beginner tutorials from [www.linux6.com](http://www.linux6.com).
 
 - [awesome-linux-resources](#awesome-linux-resources)
   - [env](#env)
@@ -59,7 +59,7 @@ Useful Linux tutorials, web sites and online books, you also can find this list 
 * [oschina.net-git](http://git.oschina.net/progit/)  
 * [yyz.us-git_for_kernel](http://linux.yyz.us/git-howto.html)
 * [git-scm.com](http://git-scm.com/book/en/)  
-* [try.github.io](https://try.github.io)  Learn how to use Git by reviewing the basic concepts of Git version control.  
+* [try.github.io](https://try.github.io)   
 
 
 ##Linux web sites
