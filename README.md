@@ -19,7 +19,6 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 ##env
 * [vim_tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 * [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
-* [alias.sh](http://alias.sh)    
 
 
 ##cmds
