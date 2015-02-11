@@ -48,6 +48,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [wooledge.org-bash_fqa](http://mywiki.wooledge.org/BashFAQ)
 * [zshwiki.org](http://zshwiki.org/home/)
 * [bash by example](http://matt.might.net/articles/bash-by-example/)
+* [advanced bash](http://tldp.org/LDP/abs/html/)  
 
 
 ##Dev tools
