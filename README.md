@@ -26,6 +26,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [bropages.org](http://bropages.org/browse)
 * [computerhope.com](http://www.computerhope.com/unix/overview.htm)
 * [alvinalexander.com-cmds](http://alvinalexander.com/unix/edu/examples)
+* [pronounce](https://github.com/momeni/pronounce)
 * [grymoire.com-sed](http://www.grymoire.com/Unix/Sed.html)
 * [grymoire.com-grep](http://www.grymoire.com/Unix/Grep.html)
 * [grymoire.com-awk](http://www.grymoire.com/Unix/Awk.html)
