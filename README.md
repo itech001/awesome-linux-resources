@@ -16,12 +16,12 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
   - [other awesomes](#other-awesomes)
 
 
-##env
+## env
 * [vim_tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
 * [another-vim-tutorial](http://tips.webdesign10.com/another-vim-tutorial)
 
 
-##cmds
+## cmds
 * [explainshell.com](http://explainshell.com)
 * [bropages.org](http://bropages.org/browse)
 * [computerhope.com](http://www.computerhope.com/unix/overview.htm)
@@ -32,7 +32,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [ss64.com-cmds](http://ss64.com/bash/)
 
 
-##shell
+## shell
 * [learnshell.org](http://www.learnshell.org/)  
 * [wikibooks.org-bash](http://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [shell script cheat sheet](http://alvinalexander.com/blog/post/linux-unix/unix-linux-shell-script-reference-cheat-sheet)
@@ -51,7 +51,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [advanced bash](http://tldp.org/LDP/abs/html/)  
 
 
-##Dev tools
+## Dev tools
 * [yolinux.com-gdb](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
 * [cprogramming.com-gdb](http://www.cprogramming.com/gdb.html)
 * [gitref.org](http://gitref.org/)
@@ -62,7 +62,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [try.github.io](https://try.github.io)   
 
 
-##Linux web sites
+## Linux web sites
 * [linuxtechi.com](http://www.linuxtechi.com/)
 * [tecadmin.net](http://tecadmin.net/)
 * [xmodulo.com](http://xmodulo.com/)
@@ -75,7 +75,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [mylinuxbook.com](http://mylinuxbook.com/)  
 
 
-##free Linux books
+## free Linux books
 * [linux-101-hacks-ebook](http://www.thegeekstuff.com/linux-101-hacks-ebook/)
 * [The-linux-command-line](http://linuxcommand.org/tlcl.php)
 * [advanced-bash-scripting-guide](http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/)  
@@ -98,7 +98,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [modernperlbooks.com](http://modernperlbooks.com/books/modern_perl_2014/index.html)  
 
 
-##python
+## python
 * [learnpython.org](http://www.learnpython.org/)  
 * [pythontutor.com](http://www.pythontutor.com/)  
 * [zetcode.com-python](http://zetcode.com/lang/python/)  
@@ -106,7 +106,7 @@ Useful Linux tutorials, web sites and online books, you also can find more linux
 * [python-guide.org](http://docs.python-guide.org/en/latest/index.html)
 * [fullstackpython.com](http://www.fullstackpython.com/)  
 
-##other awesomes
+## other awesomes
 * [awesome-shell](https://github.com/alebcay/awesome-shell)
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [sysadmin](https://github.com/kahun/awesome-sysadmin)
